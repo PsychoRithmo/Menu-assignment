@@ -1,0 +1,13 @@
+.item {
+	position: absolute;
+	background-color: grey;
+}
+.itemname {
+	float: right;
+	width: 25%;
+	background-color: lightpink;
+	padding: 5px;
+}
+.itemscript {
+	padding: 5 px;
+}
